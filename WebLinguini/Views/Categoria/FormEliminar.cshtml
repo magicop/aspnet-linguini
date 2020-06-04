@@ -1,0 +1,28 @@
+﻿@model WebLinguini.Models.DTO.Categoria
+
+
+@{
+    Layout = "~/Views/Home/Index.cshtml";
+}
+
+<h2>FormEliminar</h2>
+
+@using (Html.BeginForm("Eliminar", "Categoria", FormMethod.Post, new { id = "FormEliminarCategoria", name = "FormEliminarCategoria" }))
+{
+    <div class="form-row">
+
+        <div class="form-group col-md-6">
+            <label>ID Categoria</label>
+            @Html.TextBoxFor(model => model.idCategoria, new { @class = "form-control", placeholder = "Ingrese id" })
+        </div>
+
+        <div class="form-group col-md-6">
+            <center>
+                <br>
+
+                <button type="submit" class="btn btn-outline-danger btn-lg" id="btnAgregarPrestacion" name="btnAgregarPrestacion">Eliminar</button>
+
+            </center>
+        </div>
+    </div>
+}

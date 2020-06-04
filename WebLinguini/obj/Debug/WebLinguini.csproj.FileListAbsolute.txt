@@ -1,0 +1,227 @@
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\csc.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\vbc.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\WebLinguini.dll.config
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\WebLinguini.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\WebLinguini.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Antlr3.Runtime.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Newtonsoft.Json.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Net.Http.Formatting.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Helpers.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Mvc.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Optimization.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Razor.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Razor.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\WebGrease.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Net.Http.Formatting.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Helpers.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Mvc.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Optimization.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.Razor.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Razor.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Antlr3.Runtime.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\Newtonsoft.Json.xml
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\obj\Debug\WebLinguini.csprojResolveAssemblyReference.cache
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\obj\Debug\WebLinguini.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\obj\Debug\WebLinguini.pdb
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\itextsharp.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\itextsharp.xmlworker.dll
+C:\Users\win10\Documents\Visual Studio 2015\Projects\Solucion WebLinguini\WebLinguini\bin\itextsharp.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.csprojResolveAssemblyReference.cache
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.pdb
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\csc.exe
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\vbc.exe
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.dll.config
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.pdb
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Antlr3.Runtime.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.xmlworker.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Newtonsoft.Json.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Net.Http.Formatting.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Helpers.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Mvc.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Optimization.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Razor.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Razor.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebGrease.dll
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Net.Http.Formatting.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Helpers.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Mvc.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Optimization.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Razor.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Razor.xml
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Antlr3.Runtime.pdb
+C:\Users\win10\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Newtonsoft.Json.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Web-Linguini-Siglo-21--master\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Web-Linguini-Siglo-21--master\Downloads\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.pdb
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\csc.exe
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\vbc.exe
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\VBCSCompiler.exe
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.dll.config
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.pdb
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Antlr3.Runtime.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.xmlworker.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Newtonsoft.Json.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Net.Http.Formatting.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Helpers.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Mvc.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Optimization.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Razor.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Razor.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\WebGrease.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Net.Http.Formatting.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Helpers.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Mvc.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Optimization.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Razor.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Razor.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Antlr3.Runtime.pdb
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\bin\Newtonsoft.Json.xml
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.csprojResolveAssemblyReference.cache
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.dll
+C:\Users\CamiloPedroFuenzalid\Desktop\DUOC\Portafolio\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.pdb
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\csc.exe
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\vbc.exe
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.dll.config
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebLinguini.pdb
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Antlr3.Runtime.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.xmlworker.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Net.Http.Formatting.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Helpers.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Mvc.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Optimization.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Razor.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Razor.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\WebGrease.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\itextsharp.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Net.Http.Formatting.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Helpers.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Mvc.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Optimization.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.Razor.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\System.Web.WebPages.Razor.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Antlr3.Runtime.pdb
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\bin\Newtonsoft.Json.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.csprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguiniv4\WebLinguini\obj\Debug\WebLinguini.pdb
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\csc.exe
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\vbc.exe
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\VBCSCompiler.exe
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\WebLinguini.dll.config
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\WebLinguini.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\WebLinguini.pdb
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Antlr3.Runtime.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\itextsharp.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\itextsharp.xmlworker.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Newtonsoft.Json.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Net.Http.Formatting.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Helpers.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Mvc.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Optimization.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Razor.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Deployment.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Razor.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\WebGrease.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\itextsharp.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Net.Http.Formatting.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Helpers.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Mvc.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Optimization.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.Razor.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Deployment.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\System.Web.WebPages.Razor.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Antlr3.Runtime.pdb
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\bin\Newtonsoft.Json.xml
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\obj\Debug\WebLinguini.csprojResolveAssemblyReference.cache
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\obj\Debug\WebLinguini.dll
+C:\Users\win10\Desktop\Solucion WebLinguiniv4\Solucion WebLinguini\WebLinguini\obj\Debug\WebLinguini.pdb
